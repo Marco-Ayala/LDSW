@@ -1,4 +1,4 @@
-Código de archivo "main.dart"
+Código del archivo "main.dart"
 
 
 import 'dart:convert';
@@ -158,7 +158,7 @@ class _MovieCatalogScreenState extends State<MovieCatalogScreen> {
 }
 
 
-Código de archivo pubspec.yaml
+Código del archivo "pubspec.yaml"
 
 
 name: my_first_app
